@@ -1,0 +1,28 @@
+.red {
+	color: red;
+	font-size: small;
+}
+
+body {
+	background-color: grey;
+}
+
+#main {
+	height: 450px;
+	background-color: white;
+	margin-top: 100px;
+	border-radius: 20px;
+}
+
+#content {
+	margin-left: 20px;
+	padding-top: 2px;
+}
+
+input[type=text] {
+	width: 260px;
+	box-sizing: border-box;
+	border: 1px solid black;
+	border-radius: 4px;
+
+}
